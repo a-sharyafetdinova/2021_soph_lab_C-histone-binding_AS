@@ -19,7 +19,7 @@
 
 #### Поиск генома и структуры вируса в базах данных
 [Геном вируса Денги из NCBI](https://www.ncbi.nlm.nih.gov/nuccore/158976983). Отсюда можно узнать, что данный организм содержит ген, кодирующий белок капсида С (NP_739591.2).<br>
-[Страничка белка капсида DENV С из NCBI](https://www.ncbi.nlm.nih.gov/protein/159024809). Его последовательность остатков аминокислот: MNNQRKKAKNTPFNMLKRERNRVSTVQQLTKRFSLGMLQGRGPLKLFMALVAFLRFLTIPPTAGILKRWGTIKKSKAINVLRGFRKEIGRMLNILNRRRR (100 ао). <br>
+[Страничка белка капсида DENV С из NCBI](https://www.ncbi.nlm.nih.gov/protein/159024809) - NP_739591.2. Его последовательность остатков аминокислот: MNNQRKKAKNTPFNMLKRERNRVSTVQQLTKRFSLGMLQGRGPLKLFMALVAFLRFLTIPPTAGILKRWGTIKKSKAINVLRGFRKEIGRMLNILNRRRR (100 ао). <br>
 [3D-структура белка DENV C из PDB](https://www.rcsb.org/structure/1R6R). Белок состоит из двух альфа-спиралей. Его id в PDB - 1R6R. <br>
 
 В статье Colpitts TM, Barthel S, Wang P, Fikrig E. Dengue virus capsid protein binds core histones and inhibits nucleosome formation in human liver cells. PLoS One. 2011;6(9):e24365. doi: 10.1371/journal.pone.0024365. Epub 2011 Sep 1. PMID: 21909430; PMCID: PMC3164731. ([или с сайта Plos one](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0024365)) после упоминания о том, что капсидный белок DENV С взаимодействует с альфа-импортином для попадания в ядро, приводится ссылка на соответствующую [статью](https://www.sciencedirect.com/science/article/abs/pii/S0006291X09016659), в которой исследуется капсидный белок С, но организма вируса Западного Нила (West Nile virus) - WNV C. <br>
