@@ -27,7 +27,7 @@
 [Страничка белка капсида WNV С из NCBI](https://www.ncbi.nlm.nih.gov/protein/27735298). Его последовательность остатков аминокислот: MSKKPGGPGKNRAVNMLKRGMPRGLSLIGLKRAMLSLIDGKGPIRFVLALLAFFRFTAIAPTRAVLDRWRGVNKQTAMKHLLSFKKELGTLTSAINRRSTKQKKR (105 ао) <br>
 
 При сравнении этих двух последовательностей с помощью двойного выравнивания, получилось: <br>
-![image](https://user-images.githubusercontent.com/82018764/122210581-78b9b580-ceae-11eb-8bd1-937b2af0c12f.png) <br>
+![image](https://user-images.githubusercontent.com/82018764/122921725-84542300-d36b-11eb-981f-ab0cefe64b11.png) <br>
 <p align="right"> 11.06.2021. </p>
 
 #### Механизм транспорта гистонов человека в ядро
